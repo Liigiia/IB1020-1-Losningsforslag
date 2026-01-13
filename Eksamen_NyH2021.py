@@ -83,18 +83,18 @@ to_treere(arr1)
 #%%
 # Oppgave 3
 
-butt = np.linspace(1, 2178, 2178)
-fuk = 10000
-riverdale = 0
+pm = np.linspace(1, 2178, 2178)
+ sm= 10000
+dm = 0
 
-for u in range(fuk):
-    cheeks = np.random.choice(butt, 2, False)
-    if cheeks[0] >= 2000 and cheeks[1]>= 2000:
-        riverdale += 1
+for sm in range(fuk):
+    cm = np.random.choice(butt, 2, False)
+    if cm[0] >= 2000 and cm[1]>= 2000:
+        dm += 1
 
-hope = riverdale/fuk
+san = dm/sm
 
-print(hope)
+print(san)
 
 #%%
 # Oppgave 4
@@ -131,4 +131,5 @@ print("Minste avstand =", minste_avstand, "ved x =", x)
     
     
     
+
     
