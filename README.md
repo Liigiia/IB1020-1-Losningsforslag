@@ -1,4 +1,5 @@
 Heisann ヾ(＠⌒ー⌒＠)ノ
+
 Dette repositoriet inneholder alternative løsningsforslag til ulike eksamensoppgaver og øvingsoppgaver i programmering for beregning ved Universitetet i Sør-Øst Norge (USN).
 
 Løsningene er utarbeidet over tid, fra perioden jeg var studentassistent i emnet, men også fra da jeg selv skulle forberede meg til eksamen.
